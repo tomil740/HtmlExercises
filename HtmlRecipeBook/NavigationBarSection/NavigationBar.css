@@ -1,6 +1,10 @@
 body{
     background-color:darkgrey;
 }
+a{
+    margin: 0;
+    padding: 0;
+}
 
 .TheMenu{
     margin: 9px 336px;
@@ -18,7 +22,10 @@ body{
     z-index: 1;
     border-radius: 45px;
 }
+
 .MenuIcon{
+    height: 42px;
+    object-fit: scale-down;
     padding: 11px;
 
 }

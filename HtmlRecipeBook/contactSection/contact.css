@@ -1,0 +1,53 @@
+.contactContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.contactContainer
+.detailsRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.contactContainer
+.header{
+    font-size: 56px;
+}
+
+.contactContainer
+.contactItem{
+    margin: 16px;
+}
+
+.contactContainer
+.pushQuestionHeader{
+    font-size: 24px;
+    color: cadetblue;
+}
+
+.detailsRow
+.inputSection{
+    margin: 16px;
+    width: 350px;
+    height:36px ;
+    background-color: blanchedalmond;
+    color: cadetblue;
+    border-style:solid;
+    border-width:1.8px;
+    border-color:cadetblue;
+    border-radius: 35px;
+}
+
+.detailsRow
+.SendBut{
+    padding: 8px;
+    font-size: 28px;
+    background-color: blanchedalmond;
+    color: cadetblue;
+    border-style:solid;
+    border-width:1.8px;
+    border-color:cadetblue;
+    border-radius: 35px;
+    width: 120px;
+    height: 56px;
+}

@@ -1,0 +1,10 @@
+.recipePage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.theHeader{
+    font-size: 64px;
+
+}
