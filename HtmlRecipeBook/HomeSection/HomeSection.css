@@ -1,0 +1,23 @@
+.HomeSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21px;
+    background-color:darkgrey ;
+    margin: 0 180px;
+    border-radius: 35px;
+}
+.HomeSection
+.header{
+    color: antiquewhite;
+    font-size: 36px;
+    margin: 16px;
+
+}
+
+.HomeSection
+.mainImage{
+    object-fit: scale-down;
+    height: 330px;
+    border-radius: 25px;
+}
