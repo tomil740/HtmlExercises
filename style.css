@@ -1,0 +1,14 @@
+.ExerciseHeader{
+    font-size: 64px;
+    color: rgb(127, 191, 255);
+}
+
+.ExerciseNote{
+    padding: 36px;
+    margin: 36px;
+    border-width: 8px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: rgba(18, 134, 235, 0.76);
+   
+}
