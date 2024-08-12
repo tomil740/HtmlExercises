@@ -1,0 +1,13 @@
+body{
+    background-color:darkgrey;
+}
+.MainTitle{
+    text-align: center;
+    font-size: 64px;
+    color: antiquewhite;
+}
+.subHeader{
+    text-align: center;
+    font-size: 24px;
+    color: antiquewhite;
+}
