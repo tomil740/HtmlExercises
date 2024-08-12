@@ -1,0 +1,22 @@
+.listHeader{
+    font-size: 21px;
+    color: blue;
+}
+.list1{
+    color: blue;
+}
+.listHeader2{
+    font-size: 21px;
+    color: red;
+}
+.list2{
+    color: red;
+}
+
+.listHeader3{
+    font-size: 21px;
+    color: rgb(181, 183, 62);
+}
+.list3{
+    color:rgb(181, 183, 62);
+}
