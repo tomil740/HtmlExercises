@@ -1,0 +1,25 @@
+body{
+    background-color:darkgrey;
+}
+
+.TheMenu{
+    margin: 9px 336px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-color: white; 
+    border-bottom-style:solid;
+    border-bottom-width:1px ;
+    border-bottom-color:rgb(240, 248, 255);
+    background-color: antiquewhite;
+    z-index: 1;
+    border-radius: 45px;
+}
+.MenuIcon{
+    padding: 11px;
+
+}
